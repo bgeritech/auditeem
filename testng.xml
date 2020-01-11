@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Appium UI Automation Report " parallel="classes" thread-count="3">
+    <test name="testDemo" preserve-order="true" verbose="2">
+        <classes>
+            <class name="com.ioeve.auditeem.test.AppiumTestDemo"/>
+        </classes>
+    </test>
+<!--    <listeners>-->
+<!--     <listener class-name="org.uncommons.reportng.HTMLReporter" />-->
+<!--     <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />-->
+<!--    </listeners>-->
+</suite>

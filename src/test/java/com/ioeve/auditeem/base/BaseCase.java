@@ -24,7 +24,7 @@ public class BaseCase {
     public static AppiumDriver driver;
     public String appPackage ="tv.danmaku.bili";
 
-    public String deviceName = "2fb7c8f2";
+    public String deviceName = "emulator-5554";
 
     public String appActivity = ".ui.splash.SplashActivity";
     public String platform = "Android";

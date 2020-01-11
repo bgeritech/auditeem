@@ -24,3 +24,4 @@ hs_err_pid*
 /.idea/
 /auditeem.iml
 /target
+/allure-results/
